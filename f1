@@ -1,0 +1,6 @@
+git config
+git config --global
+git config --list
+git add
+git commit 
+touch filename
